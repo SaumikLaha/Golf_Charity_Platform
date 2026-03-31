@@ -127,7 +127,7 @@ export default function Login() {
         <div style={{ marginTop: 20, padding: '12px 16px', background: 'rgba(59,130,246,0.08)', borderRadius: 10, border: '1px solid rgba(59,130,246,0.2)' }}>
           <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', textAlign: 'center', lineHeight: 1.8 }}>
             <strong style={{ color: '#60a5fa' }}>Demo Admin:</strong><br />
-            admin@golfplatform.com / Admin@123
+            don@gmail.com / 123456
           </p>
         </div>
       </motion.div>
